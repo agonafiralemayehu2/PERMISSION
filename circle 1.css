@@ -1,0 +1,31 @@
+*{
+    margin: 20px;
+    padding: 20px;
+}
+.sky{
+    height: 300px;
+    width: 300px;
+    background-color:greenyellow;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.sun{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    border-radius:50%;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.moon{
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
